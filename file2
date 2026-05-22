@@ -1,0 +1,6 @@
+git branches
+git log
+git status
+git log --oneline
+ls -la
+ls -a
